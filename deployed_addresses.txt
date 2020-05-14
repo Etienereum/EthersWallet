@@ -1,0 +1,21 @@
+DEPLOYED ADDRESSES
+
+
+INTRODUCTION:
+This is a file.txt that describes the details where Zamp deployed Contracts are 
+deployed live on the Ropsten testnet Network. There are 2 contracts, the Zamp 
+Token Contract and the Zamp Token Sales Contract. Below are their Addresses and 
+TransactionHashes:
+
+
+
+Admin Address: "0xdF70554afD4baA101Cde0C987ba4aDF9Ea60cA5E"         -(Ropsten Network)
+
+Zamp Token -
+Contract Address: "0x6361Ee5057913Ee974cb55851bDF8adA1846A139"      -(Ropsten Network)
+TransactionHash: "0x0875aa749774b09bc09fefd469e1e7dc25b356835b01e67a42802b1203472b1d"
+
+
+Zamp Token Sale Contract -
+Contract Address: "0x5f7e814e9AB2f8d38FA6E95d1De27A37C59C5078:      -(Ropsten Network)
+TransactionHash: "0x729b23350ba451e5d2958f695ab735729c577d440419e42956edecde5db5b2c8"
