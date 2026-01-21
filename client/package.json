@@ -9,7 +9,7 @@
     "serve": "^11.3.0",
     "serve-handler": "^6.1.2",
     "static-server": "^2.2.1",
-    "web3": "1.2.2"
+    "web3": "4.16.0"
   },
   "scripts": {
     "start": "react-scripts start",
